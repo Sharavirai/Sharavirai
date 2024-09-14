@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharavi R Rai</h1>
-<h3 align="center">ISE under graduate</h3>
+<h3 align="center">IT undergrad || Web UI Developer || Immediate joiner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharavirai&label=Profile%20views&color=0e75b6&style=flat" alt="sharavirai" /> </p>
 
