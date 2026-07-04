@@ -1,34 +1,91 @@
-Hi, I'm Sharavi 👋
-# Hi there 👋 I'm Sharavi Rai
 
-## About Me
+# 👋 Hi, I'm Sharavi Rai
 
-I'm an aspiring SOC Analyst passionate about cybersecurity and continuously building hands-on skills in threat detection, log analysis, and network security.
+## 🛡️ Aspiring SOC Analyst | Cybersecurity Learner
 
-## Currently Learning
+I'm a cybersecurity learner passionate about defending systems, investigating security incidents, and continuously improving my technical skills through hands-on labs and projects.
 
+---
+
+## 🎯 Career Goal
+
+To begin my career as a SOC Analyst where I can apply my knowledge of threat detection, log analysis, networking, and incident response while continuously learning and growing in cybersecurity.
+
+---
+
+## 🌱 Currently Learning
+
+- Security Operations Center (SOC)
 - SIEM (Splunk)
-- SOC Operations
+- Windows Event Logs
 - Network Security
-- CEH Preparation
+- Digital Forensics
+- Linux Administration
+- Ethical Hacking (CEH)
 
-## Technical Skills
+---
 
-- Networking
-- Linux
+## 🛠️ Technical Skills
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- HTTP/HTTPS
+- SSH
+- FTP
+
+### Operating Systems
 - Windows
+- Linux
+
+### Security Tools
 - Splunk
 - Wireshark
 - Nmap
 - Burp Suite
+- Metasploit (Learning)
 
-## Certifications
+### Programming
+- Python (Learning)
+- SQL Basics
 
-- CEH (In Progress)
+### Version Control
+- Git
+- GitHub
 
-## Connect with Me
+---
 
-LinkedIn:www.linkedin.com/in/sharavirrai
-GitHub:github.com/Sharavirai
-Email:sharavirai5@gmail.com
+## 📚 Current Projects
+
+- Cybersecurity Notes
+- SOC Detection Labs
+- Splunk Investigations
+- Windows Event Log Analysis
+- Networking Labs
+
+---
+
+## 📈 Currently Working On
+
+✔ Building my cybersecurity portfolio
+
+✔ Practicing SOC investigations
+
+✔ Preparing for the CEH certification
+
+✔ Improving detection and analysis skills
+
+---
+
+## 🤝 Connect with Me
+
+💼 LinkedIn *www.linkedin.com/in/sharavirrai*
+
+📧 Email *(sharavirai5@gmail.com)*
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
  
