@@ -1,6 +1,6 @@
 Hi, I'm Sharavi 👋
 
-🔐 Aspiring SOC Analyst (L1) | Currently studying for CompTIA Security+
+🔐 Aspiring SOC Analyst (L1) | Currently studying for CEH
 
 I'm new to the world of cybersecurity and building my skills from the ground up — learning how attacks work, how defenders detect them, and how to think like both.
 
@@ -8,7 +8,7 @@ I'm new to the world of cybersecurity and building my skills from the ground up 
 🌱 What I'm doing right now
 
 
-📖 Studying for CompTIA Security+
+📖 Studying for CEH
 🎯 Working toward a SOC Analyst (Level 1) role
 🧠 Learning the fundamentals: networking, Windows/Linux basics, log analysis, and common attack techniques
 💻 Getting comfortable with Git & GitHub (this profile is one of my first steps!)
