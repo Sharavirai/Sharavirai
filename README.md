@@ -1,35 +1,34 @@
 Hi, I'm Sharavi 👋
+# Hi there 👋 I'm Sharavi Rai
 
-🔐 Aspiring SOC Analyst (L1) | Currently studying for CEH
+## About Me
 
-I'm new to the world of cybersecurity and building my skills from the ground up — learning how attacks work, how defenders detect them, and how to think like both.
+I'm an aspiring SOC Analyst passionate about cybersecurity and continuously building hands-on skills in threat detection, log analysis, and network security.
 
+## Currently Learning
 
-🌱 What I'm doing right now
+- SIEM (Splunk)
+- SOC Operations
+- Network Security
+- CEH Preparation
 
+## Technical Skills
 
-📖 Studying for CEH
-🎯 Working toward a SOC Analyst (Level 1) role
-🧠 Learning the fundamentals: networking, Windows/Linux basics, log analysis, and common attack techniques
-💻 Getting comfortable with Git & GitHub (this profile is one of my first steps!)
+- Networking
+- Linux
+- Windows
+- Splunk
+- Wireshark
+- Nmap
+- Burp Suite
 
+## Certifications
 
-🛠️ Interests & Topics I'm Exploring
+- CEH (In Progress)
 
-Network Security SIEM Basics Log Analysis Threat Detection Linux Windows TCP/IP
-## Connect with me :
+## Connect with Me
 
-<p>
-    <a href="https://www.linkedin.com/in/sharavirrai/">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-     <a href="mailto: sharavirai5@gmail.com">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-  </a>
-     <a href="">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
-  </a>
-</p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharavirai&" alt="sharavirai" /></p>
+LinkedIn:www.linkedin.com/in/sharavirrai
+GitHub:github.com/Sharavirai
+Email:sharavirai5@gmail.com
+ 
