@@ -46,14 +46,6 @@ To begin my career as a SOC Analyst where I can apply my knowledge of threat det
 - Burp Suite
 - Metasploit (Learning)
 
-### Programming
-- Python (Learning)
-- SQL Basics
-
-### Version Control
-- Git
-- GitHub
-
 ---
 
 ## 📚 Current Projects
